@@ -1,6 +1,6 @@
 <template>
     <div class="">
-        <a href="#" class=""><h1 id="my-brand">AMN.SE</h1></a>
+        <a href="../" class=""><h1 id="my-brand">AMN.SE</h1></a>
     </div>
 </template>
 

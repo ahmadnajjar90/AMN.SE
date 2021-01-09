@@ -7,7 +7,7 @@
             <div class="collapse navbar-collapse " id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link my-nav-link" href="#">Home</a>
+                        <a class="nav-link my-nav-link" href="../">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link my-nav-link" href="#">Products</a>
@@ -16,10 +16,10 @@
                         <a class="nav-link my-nav-link" href="#">Offers</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link my-nav-link" href="#">About Us</a>
+                        <a class="nav-link my-nav-link" href="../About">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link my-nav-link" href="#">Contact Us</a>
+                        <a class="nav-link my-nav-link" href="../contactus">Contact Us</a>
                     </li>
                 </ul>
             </div>

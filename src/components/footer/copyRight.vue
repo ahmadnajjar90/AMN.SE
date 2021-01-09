@@ -1,7 +1,7 @@
 <template>
     <div class="bg-copyRight">
         <div class="text-center">
-            <p class="them-color">&copy; 2021 copyright: AMN.se</p>
+            <span class="them-color">&copy; 2021 copyright: AMN.se</span>
         </div>
     </div>
 </template>

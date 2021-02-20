@@ -1,6 +1,6 @@
 <template>
     <div>
-        <a href="../shoppingCart"><i class="fas fa-shopping-cart ml-auto cart-icon">  0kr</i></a>
+        <h1>ShoppingCart</h1>
     </div>
 </template>
 

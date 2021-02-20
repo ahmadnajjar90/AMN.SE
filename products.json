@@ -1,0 +1,16 @@
+[
+    {"prod1" :{"id":"111","name":"Smart Watch","color":"Black","pris":99}},
+    {"prod2" :{"id":"112","name":"Smart Watch","color":"green","pris":49}},
+    {"prod3" :{"id":"113","name":"Smart Watch","color":"red","pris":199}},
+    {"prod4" :{"id":"114","name":"Smart Watch","color":"yellow","pris":249}},
+    {"prod5" :{"id":"115","name":"Smart Watch","color":"blue","pris":399}},
+    {"prod6" :{"id":"116","name":"Smart Watch","color":"green","pris":549}},
+    {"prod7" :{"id":"117","name":"Smart Watch","color":"red","pris":899}},
+    {"prod8" :{"id":"118","name":"Smart Watch","color":"gold","pris":449}},
+    {"prod9" :{"id":"119","name":"Smart Watch","color":"black","pris":599}},
+    {"prod10":{"id":"220","name":"Smart Watch","color":"gray","pris":349}},
+    {"prod11":{"id":"221","name":"Smart Watch","color":"red","pris":499}},
+    {"prod12":{"id":"222","name":"Smart Watch","color":"silver","pris":549}},
+    {"prod13":{"id":"223","name":"Smart Watch","color":"blue","pris":999}},
+    {"prod14":{"id":"224","name":"Smart Watch","color":"black","pris":749}}
+]
